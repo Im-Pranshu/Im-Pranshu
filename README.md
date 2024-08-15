@@ -7,13 +7,13 @@
 ### About Me
 - 👀 **Code Enthusiast** with a passion for crafting responsive and dynamic web applications.
 - 🌱 **Tech Stack Explorer:** HTML, CSS, JavaScript, React.js, Bootstrap—if it's web, I'm diving deep!
-- 🧠 **Knowledge Sharer:** I've compiled [Web Tech Notes](#) and [C++ Notes](#) to help others on their learning journey.
-- 🧩 **Problem Solver:** Check out my [LeetCode Solutions](#) where I tackle challenges and break down complex problems.
+- 🧠 **Knowledge Sharer:** I've compiled [Web Tech Notes](https://github.com/Im-Pranshu/WebDev-Noes) and [C++ Notes]([#](https://github.com/Im-Pranshu/CPP-NOTES)) to help others on their learning journey.
+- 🧩 **Problem Solver:** Check out my [LeetCode Solutions](https://github.com/Im-Pranshu/LeetCode-Solutions) where I tackle challenges and break down complex problems.
 - 🎓 **CSE Student:** Pursuing B.Tech in Computer Science and Engineering, balancing theory and hands-on practice.
 
 ### My Projects
 - **Web Development:** Building modern, user-friendly websites and applications.
-- **Note Collections:** [Web Technologies](#) and [C++](#) notes for fellow learners.
+- **Note Collections:** [Web Technologies](https://github.com/Im-Pranshu/WebDev-Noes) and [C++]([#](https://github.com/Im-Pranshu/CPP-NOTES)) notes for fellow learners.
 - **Algorithms:** Solving and documenting LeetCode problems to sharpen my problem-solving skills.
 
 ### Let’s Connect!
